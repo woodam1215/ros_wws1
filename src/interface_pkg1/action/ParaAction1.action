@@ -1,0 +1,13 @@
+# Goal
+float32 linear_x
+float32 angular_z
+float32 dist
+---
+# Result
+float32 pose_x
+float32 pose_y
+float32 pose_theta
+float32 result_dist
+---
+# Feedback
+float32 remaining_dist

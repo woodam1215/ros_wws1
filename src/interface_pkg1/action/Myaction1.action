@@ -1,0 +1,8 @@
+# Goal
+int32 target_num
+---
+# Result
+int32 result_num
+---
+# FeedBack 
+int32 current_num

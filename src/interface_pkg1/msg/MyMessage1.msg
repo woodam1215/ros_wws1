@@ -1,0 +1,6 @@
+float32 cmd_vel_linear1
+float32 cmd_vel_angular1
+
+float32 pose_x1
+float32 pose_y1
+float32 pose_theta

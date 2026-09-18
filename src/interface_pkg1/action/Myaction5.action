@@ -1,0 +1,12 @@
+# Goal
+float32 radius
+int32 turns
+---
+# Result
+int32 completed_turns
+float32 final_x
+float32 final_y
+---
+# Feedback
+float32 progress
+float32 current_angle

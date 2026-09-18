@@ -1,0 +1,10 @@
+# Goal
+float32 target_dist
+---
+# Result
+float32 result_dist
+float32 final_x
+float32 final_y
+---
+# Feedback
+float32 remaining_dist
